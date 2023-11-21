@@ -52,7 +52,8 @@ private val sampleName = listOf(
     "Komeng",
     "Raffi Ahmad",
     "Andhika Pratama",
-    "Vincent Ryan Rompies"
+    "Vincent Ryan Rompies",
+    "Ilham Ramadhan"
 )
 
 class MainActivity : ComponentActivity() {
